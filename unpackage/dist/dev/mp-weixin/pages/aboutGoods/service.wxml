@@ -1,0 +1,1 @@
+<view class="fen data-v-0bed1728"><headd vue-id="71b64ede-1" class="data-v-0bed1728" bind:__l="__l"></headd><block wx:if="{{kefu_url}}"><web-view src="{{kefu_url}}" class="data-v-0bed1728"></web-view></block></view>

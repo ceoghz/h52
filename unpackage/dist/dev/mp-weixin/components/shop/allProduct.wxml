@@ -1,0 +1,1 @@
+<block wx:if="{{isTab===1}}"><view class="all-product data-v-e8ba6648">全部商品</view></block>
